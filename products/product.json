@@ -1,0 +1,186 @@
+[
+    {
+        "name": "Papoa",
+        "id": 1,
+        "price": 100,
+        "image": "./img/product-images/papoa.png"
+    },
+    {
+        "name": "Banana",
+        "id": 2,
+        "price": 150,
+        "image": "./img/product-images/banana.png"
+    },
+    {
+        "name": "Apple",
+        "id": 3,
+        "price": 200,
+        "image": "./img/product-images/apple.png"
+    },
+    {
+        "name": "Mango",
+        "id": 4,
+        "price": 300,
+        "image": "./img/product-images/mango.png"
+    },
+    {
+        "name": "Lemon",
+        "id": 5,
+        "price": 70,
+        "image": "./img/product-images/lemon.png"
+    },
+    {
+        "name": "Pinapple",
+        "id": 6,
+        "price": 400,
+        "image": "./img/product-images/pinapple.png"
+    }
+    ,
+    {
+        "name": "Potato",
+        "id": 7,
+        "price": 100,
+        "image": "./img/product-images/potato.png"
+    },
+    {
+        "name": "Onion",
+        "id": 8,
+        "price": 150,
+        "image": "./img/product-images/onion.png"
+    },
+    {
+        "name": "Beetroot",
+        "id": 9,
+        "price": 200,
+        "image": "./img/product-images/beetroot.png"
+    },
+    {
+        "name": "Beans",
+        "id": 10,
+        "price": 300,
+        "image": "./img/product-images/beans.png"
+    },
+    {
+        "name": "Ginger",
+        "id": 11,
+        "price": 70,
+        "image": "./img/product-images/ginger.png"
+    },
+    {
+        "name": "Cauliflower",
+        "id": 12,
+        "price": 400,
+        "image": "./img/product-images/cauliflower.png"
+    },
+    {
+        "name": "Samon",
+        "id": 13,
+        "price": 100,
+        "image": "./img/product-images/samon.png"
+    },
+    {
+        "name": "shrimp",
+        "id": 14,
+        "price": 150,
+        "image": "./img/product-images/shrimp.png"
+    },
+    {
+        "name": "Lobster",
+        "id": 15,
+        "price": 200,
+        "image": "./img/product-images/lobster.png"
+    },
+    {
+        "name": "Beef",
+        "id": 16,
+        "price": 300,
+        "image": "./img/product-images/beef.png"
+    },
+    {
+        "name": "Chicken",
+        "id": 17,
+        "price": 70,
+        "image": "./img/product-images/chicken.png"
+    },
+    {
+        "name": "Mutton",
+        "id": 18,
+        "price": 400,
+        "image": "./img/product-images/mutton.png"
+    },
+    {
+        "name": "Butter",
+        "id": 19,
+        "price": 5900,
+        "image": "./img/product-images/butter.png"
+    },
+    {
+        "name": "Milk",
+        "id": 20,
+        "price": 150,
+        "image": "./img/product-images/milk.png"
+    },
+    {
+        "name": "Ice-cream",
+        "id": 21,
+        "price": 200,
+        "image": "./img/product-images/icecream.png"
+    },
+    {
+        "name": "Youghurt",
+        "id": 22,
+        "price": 300,
+        "image": "./img/product-images/yoghurt.png"
+    },
+    {
+        "name": "Chocolate",
+        "id": 23,
+        "price": 70,
+        "image": "./img/product-images/chocolate.png"
+    },
+    {
+        "name": "Condensed Milk",
+        "id": 24,
+        "price": 400,
+        "image": "./img/product-images/cmilk.png"
+    },
+    {
+        "name": "Flour",
+        "id": 25,
+        "price": 100,
+        "image": "./img/product-images/flour.png"
+    },
+    {
+        "name": "Sugar",
+        "id": 26,
+        "price": 150,
+        "image": "./img/product-images/sugar.png"
+    },
+    {
+        "name": "Salt",
+        "id": 27,
+        "price": 200,
+        "image": "./img/product-images/salt.png"
+    },
+    {
+        "name": "Baking Powder",
+        "id": 28,
+        "price": 300,
+        "image": "./img/product-images/bakingPowder.png"
+    },
+    {
+        "name": "Oil",
+        "id": 29,
+        "price": 70,
+        "image": "./img/product-images/oil.png"
+    },
+    {
+        "name": "Yeast",
+        "id": 30,
+        "price": 400,
+        "image": "./img/product-images/yeast.png"
+    }
+
+
+
+]
