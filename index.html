@@ -17,18 +17,20 @@
     <!--scripts-->
     <script src="./scripts/main.js" defer></script>
   </head>
+
   <body>
     <main>
       <section id="menu-container">
         <section id="categories">
           <section class="category"><h3>Fruits</h3></section>
           <section class="category"><h3>vegetables</h3></section>
-          <section class="category"><h3>Meat & seafood</h3></section>
+          <section class="category"><h3>Meat <br> & <br> seafood</h3></section>
           <section class="category"><h3>Diary</h3></section>
-          <section class="category"><h3>Cooking & baking</h3></section>
+          <section class="category"><h3>Cooking <br> & <br> baking</h3></section>
         </section>
         <section id="item-container"></section>
       </section>
+
       <section id="cart-btn-container">
         <section id="counter-btn-container">
           <button id="cart-button">
@@ -37,40 +39,28 @@
           <section id="counter-container"><p id="counter">0</p></section>
         </section>
       </section>
+
       <section id="cart-container" class="cart-display">
         <section id="cart-table-container">
           <table class="cart-table">
             <thead>
-              <td>Product</td>
-              <td>Name</td>
-              <td>Price</td>
-              <td>Quantity</td>
-              <td>Delete</td>
+              <tr>
+                <td>Product</td>
+                <td>Name</td>
+                <td>Price</td>
+                <td>Quantity</td>
+                <td>Delete</td>
+              </tr>
             </thead>
-            <tbody id="item-selection">
-              <!--
-              <tr class="cart-item">
-                <td class="cart-item-image">
-                  <img src="./img/product-images/papoa.png" alt="papoa" />
-                </td>
-                <td class="cart-item-name"><h3>Name</h3></td>
-                <td class="cart-item-price"><h3>Price</h3></td>
-                <td class="quantity">
-                  <span class="minus">&lt;</span><span class="counter">0</span
-                  ><span class="plus">&gt;</span>
-                </td>
-                <td>
-                  <button id="delete">
-                    <img src="./img/icons/deleteLogo.svg" alt="Remove item" />
-                  </button>
-                </td>
-              </tr> -->
-            </tbody>
+            <tbody id="item-selection"></tbody>
           </table>
         </section>
+
         <section id="cart-interface">
-          <section><button>Add to favourite</button></section>
-          <section><button>Apply favourite</button></section>
+          <section>
+            <button id="add-to-favorite">Add to Favourite</button>
+            <button id="apply-favorite">Apply Favourite</button>
+          </section>
           <section><h3 id="total-amount">Total: Rs.00.00</h3></section>
           <section>
             <a href="./order.html"><button>Buy now</button></a>
